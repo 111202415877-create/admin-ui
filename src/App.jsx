@@ -1,6 +1,6 @@
 ﻿import "./App.css";
-import SignInPage from "./Pages/SignIn";
-import SignUpPage from "./Pages/SignIn";
+import SignIn from "./pages/SignIn";
+import SignUp from "./pages/SignUp";
 import ErrorPage from "./Pages/error";
 import { createBrowserRouter, Link, RouterProvider } from "react-router-dom";
 
